@@ -20,7 +20,6 @@ module proc (
     logic [8:0] R5;
     logic [8:0] R6;
     logic [8:0] R7;
-
     logic [8:0] A_data;
     logic [8:0] G_data;
     logic [8:0] Alu_result;
