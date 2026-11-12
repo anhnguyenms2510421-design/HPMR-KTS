@@ -4,12 +4,12 @@
 
 Mục tiêu: xây dựng processor 9-bit chạy 4 lệnh **MV, MVI, ADD, SUB**, gồm control unit (FSM T0–T3), register hierarchy, datapath (MUX + ALU) và top-level `proc.sv`.
 
-| TV | Vai trò | Độ khó | Tỉ trọng |
-|----|---------|--------|----------|
-| TV1 | Control Unit & FSM | Cao | 28% |
-| TV2 | Register Subsystem | Trung bình | 25% |
-| TV3 | Combinational Datapath | Trung bình | 22% |
-| TV4 | Top-level Integration & Verification | Trách nhiệm hệ thống | 25% |
+| TV | Vai trò |
+|----|---------|
+| TV1 | Control Unit & FSM |
+| TV2 | Register Subsystem |
+| TV3 | Combinational Datapath |
+| TV4 | Top-level Integration & Verification |
 
 ## 2. Sơ đồ phụ thuộc
 
