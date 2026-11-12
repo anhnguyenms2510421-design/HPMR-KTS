@@ -49,7 +49,7 @@ TV1, TV2, TV3 làm song song. TV4 tích hợp sau khi các module có interface 
 | `RTL/Datapath/register_G.sv` | Sửa/hoàn thiện |
 | `RTL/Datapath/register_instruction.sv` | Sửa/hoàn thiện |
 | `RTL/Common/Register/regn.sv` | **File mới** |
-| Testbench A, G, IR hiện có | Cập nhật nếu cần |
+| Testbench A, G, IR, RF hiện có | Cập nhật nếu cần |
 
 **Trách nhiệm:**
 - Register 9-bit có enable (`regn`).
