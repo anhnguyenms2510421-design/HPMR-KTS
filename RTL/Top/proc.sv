@@ -109,7 +109,7 @@ module proc (
     register_A u_register_A (
         .Bus    (BusWires),
         .Ain    (Ain),
-        .Clock  (Clock),
+        .Clk  (Clock),
         .A_data (A_data)
     );
 
